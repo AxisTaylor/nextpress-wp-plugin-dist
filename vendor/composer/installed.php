@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'axistaylor/nextpress',
-        'pretty_version' => 'dev-79d54a4a45261150f828a5672f90f3069633619c',
-        'version' => 'dev-79d54a4a45261150f828a5672f90f3069633619c',
-        'reference' => '79d54a4a45261150f828a5672f90f3069633619c',
+        'pretty_version' => 'dev-849e384216a152a116a30490f15b484ff3a953d5',
+        'version' => 'dev-849e384216a152a116a30490f15b484ff3a953d5',
+        'reference' => '849e384216a152a116a30490f15b484ff3a953d5',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'axistaylor/nextpress' => array(
-            'pretty_version' => 'dev-79d54a4a45261150f828a5672f90f3069633619c',
-            'version' => 'dev-79d54a4a45261150f828a5672f90f3069633619c',
-            'reference' => '79d54a4a45261150f828a5672f90f3069633619c',
+            'pretty_version' => 'dev-849e384216a152a116a30490f15b484ff3a953d5',
+            'version' => 'dev-849e384216a152a116a30490f15b484ff3a953d5',
+            'reference' => '849e384216a152a116a30490f15b484ff3a953d5',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
